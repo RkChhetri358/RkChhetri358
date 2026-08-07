@@ -72,18 +72,46 @@ I’m interested in **Full-Stack Development, Artificial Intelligence, Machine L
 
 ## 📌 Featured Projects
 
+### ⛓️ Blockchain Royalty Distribution Platform — KU HackFest 2025
+
+🏆 **Winner — Blockchain Track | KU HackFest 2025**
+
+Our team **Tuple Lattice** developed a blockchain-based royalty distribution platform focused on improving **transparency, ownership verification, and secure royalty distribution**.
+
+The project was developed under a tight hackathon deadline, providing hands-on experience in **Blockchain Development, Full-Stack Development, Problem Solving, and Team Collaboration**.
+
+**Key Highlights:**
+
+* 🔗 Blockchain-based royalty distribution
+* 🔐 Secure and transparent transactions
+* ✅ Ownership verification
+* 💰 Transparent royalty management
+* 🌐 Full-stack application development
+* 🤝 Collaborative team development
+* 🏆 Winner of the **Blockchain Track**
+
+**Event:** KU HackFest 2025
+**Date:** December 24–26, 2025
+
+
+
+
+**Focus Areas:** `Blockchain` `Full-Stack Development`  `Hackathon` `Innovation`
+
+---
+
 ### 🎫 Parva — Event Management System
 
 A full-stack event management platform designed to simplify event planning and organization.
 
-**Tech Stack:** React.js • Django • MySQL
+**Tech Stack:** `React.js` • `Django` • `MySQL`
 
 **Key Features:**
 
-* Event information management
-* Venue management
-* Admin functionality
-* Organized event planning workflow
+* 📅 Event information management
+* 🏢 Venue management
+* 🔐 Admin functionality
+* 📋 Organized event planning workflow
 
 ---
 
@@ -91,16 +119,16 @@ A full-stack event management platform designed to simplify event planning and o
 
 A platform designed to connect tourists with local businesses by allowing shops to showcase their information and locations.
 
-**Tech Stack:** React.js • ASP.NET • MS SQL
+**Tech Stack:** `React.js` • `ASP.NET` • `MS SQL`
 
-🏆 Developed during the **1st Hackathon — December 2024**
+🏆 **1st Hackathon — December 2024**
 
 **Key Features:**
 
-* Local business listings
-* Business location information
-* Tourist-friendly discovery
-* Interactive and responsive interface
+* 🏪 Local business listings
+* 📍 Business location information
+* 🧭 Tourist-friendly discovery
+* 📱 Responsive interface
 
 ---
 
@@ -108,7 +136,7 @@ A platform designed to connect tourists with local businesses by allowing shops 
 
 A full-stack inventory management system designed for small and medium-sized businesses.
 
-**Tech Stack:** React + Vite • ASP.NET • MS SQL
+**Tech Stack:** `React` • `Vite` • `ASP.NET` • `MS SQL`
 
 **Key Features:**
 
@@ -118,6 +146,7 @@ A full-stack inventory management system designed for small and medium-sized bus
 * 🔐 Authentication and role management
 * 🔎 Search and filtering
 * 📱 Responsive interface
+
 
 ---
 
