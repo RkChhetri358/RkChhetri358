@@ -19,7 +19,7 @@ I'm a **Computer Engineering student at Khwopa College of Engineering** with a s
 
 My interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, Blockchain, and Web Technologies**.
 
-I enjoy participating in hackathons, working with teams, solving real-world problems, and learning new technologies through hands-on projects.
+I enjoy participating in hackathons, working on real-world problems, learning new technologies, and continuously improving my development skills.
 
 * 🎓 Computer Engineering Student
 * 💻 Full-Stack Developer
@@ -31,7 +31,7 @@ I enjoy participating in hackathons, working with teams, solving real-world prob
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -89,7 +89,7 @@ I enjoy participating in hackathons, working with teams, solving real-world prob
 
 ### 🏆 Winner — Blockchain Track | KU HackFest 2025
 
-Our team **Tuple Lattice** developed a blockchain-based royalty distribution platform designed to improve **transparency, ownership verification, and secure royalty distribution**.
+Developed a **blockchain-based royalty distribution platform** focused on improving **transparency, ownership verification, and secure royalty distribution**.
 
 The project was built under a tight hackathon deadline and strengthened my experience in **Blockchain Development, Full-Stack Development, Problem Solving, Innovation, and Teamwork**.
 
@@ -100,7 +100,6 @@ The project was built under a tight hackathon deadline and strengthened my exper
 * ✅ Ownership verification
 * 💰 Transparent royalty management
 * 🌐 Full-stack web application
-* 🤝 Collaborative team development
 * ⚡ Built under hackathon time constraints
 
 ### 🏆 Achievement
@@ -109,17 +108,15 @@ The project was built under a tight hackathon deadline and strengthened my exper
 
 📅 **December 24–26, 2025**
 
-
-
-
-
-**Focus:** `Blockchain` `Full-Stack` `Royalty Distribution` `Hackathon`
+**Focus:** `Blockchain` `Web3` `Full-Stack` `Royalty Distribution` `Hackathon`
 
 ---
 
 ## 🎫 Parva — Event Management System
+**Winner- Most Innovative Solution **
 
 A full-stack **Event Management System** designed to simplify event planning and organization.
+
 
 ### 🛠️ Tech Stack
 
@@ -155,8 +152,6 @@ A full-stack **Event Management System** designed to simplify event planning and
 * 🌐 Business information management
 * 📱 Responsive interface
 
-
-
 ---
 
 ## 📦 Byabasthapan — Inventory Management System
@@ -184,7 +179,7 @@ A full-stack inventory management system designed to help businesses manage prod
 
 `Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Computer Vision`
 
-`Blockchain` • `Web3` • `Full-Stack Development` • `Data Structures & Algorithms`
+`Blockchain`  • `Full-Stack Development` • `Data Structures & Algorithms`
 
 </p>
 
@@ -196,11 +191,11 @@ A full-stack inventory management system designed to help businesses manage prod
 
 **Winner — Blockchain Track**
 
-Built a blockchain-based royalty distribution platform with **Tuple Lattice**.
+Developed a blockchain-based royalty distribution platform focused on transparency, ownership verification, and secure royalty distribution.
 
 ### 🏆 Hackathon Experience
 
-Participated in multiple hackathons focused on developing practical technology solutions under time constraints.
+Participated in hackathons focused on developing practical technology solutions under time constraints.
 
 ### 💻 Full-Stack Development
 
@@ -242,7 +237,7 @@ Improving full-stack development skills
         ↓
 Exploring AI / ML / Computer Vision
         ↓
-Learning Blockchain & Web3
+Learning Blockchain
         ↓
 Solving challenging engineering problems
         ↓
