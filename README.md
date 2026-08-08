@@ -206,10 +206,12 @@ Built applications using modern frontend and backend technologies including **Re
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RkChhetri358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RkChhetri358&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RkChhetri358&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Rachit's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RkChhetri358&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 # 🔥 Contribution Streak
