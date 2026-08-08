@@ -109,15 +109,11 @@ The project was built under a tight hackathon deadline and strengthened my exper
 
 📅 **December 24–26, 2025**
 
-👥 **Team: Tuple Lattice**
 
-**Team Members:**
 
-* [Roshan Bist](https://www.linkedin.com/in/roshan-bist-636892284/)
-* [Pratishthit Raj Baral](https://www.linkedin.com/in/pratishthit-raj-baral-6353a4296/)
-* [Utkristha Bhattarai](https://www.linkedin.com/in/utkristha-bhattarai/)
 
-**Focus:** `Blockchain` `Web3` `Full-Stack` `Royalty Distribution` `Hackathon`
+
+**Focus:** `Blockchain` `Full-Stack` `Royalty Distribution` `Hackathon`
 
 ---
 
@@ -159,11 +155,7 @@ A full-stack **Event Management System** designed to simplify event planning and
 * 🌐 Business information management
 * 📱 Responsive interface
 
-### 👥 Team
 
-* Pratishthit Raj Baral
-* Roshan Bist
-* Prasanna Raj Neupane
 
 ---
 
