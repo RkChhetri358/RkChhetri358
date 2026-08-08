@@ -1,175 +1,231 @@
-
-
-<!--
-**RkChhetri358/RkChhetri358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I'm Rachit Khadka
 
-### 💻 Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+### 💻 Computer Engineering Student | Full-Stack Developer | AI/ML & Blockchain Enthusiast
 
-I'm a Computer Engineering student at **Khwopa College of Engineering** who enjoys turning ideas into practical software solutions.
-
-I’m interested in **Full-Stack Development, Artificial Intelligence, Machine Learning, and problem solving**. I love building projects, participating in hackathons, learning new technologies, and continuously improving my development skills.
+<p align="left">
+  <a href="https://github.com/RkChhetri358">
+    <img src="https://img.shields.io/badge/GitHub-RkChhetri358-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rachitkhadka/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rachit%20Khadka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Engineering student at **Khwopa College of Engineering**
-* 💻 Interested in **Full-Stack Web Development**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 🌱 Continuously learning and improving my development skills
-* 🏆 Participated in hackathons and collaborative software projects
-* 🔨 I enjoy building practical solutions to real-world problems
-* 📍 Nepal
+I'm a **Computer Engineering student at Khwopa College of Engineering** with a strong interest in building practical and impactful software solutions.
+
+My interests include **Full-Stack Development, Artificial Intelligence, Machine Learning, Blockchain, and Web Technologies**.
+
+I enjoy participating in hackathons, working with teams, solving real-world problems, and learning new technologies through hands-on projects.
+
+* 🎓 Computer Engineering Student
+* 💻 Full-Stack Developer
+* 🤖 AI/ML Enthusiast
+* ⛓️ Blockchain & Web3 Explorer
+* 🏆 Hackathon Participant & Winner
+* 🌱 Always learning and building
+* 🇳🇵 Based in Nepal
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
-### 🔧 Tools & Technologies
+### ⛓️ Blockchain & Web3
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-1A1A1A?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### ⛓️ Blockchain Royalty Distribution Platform — KU HackFest 2025
+## ⛓️ Blockchain Royalty Distribution Platform
 
-🏆 **Winner — Blockchain Track | KU HackFest 2025**
+### 🏆 Winner — Blockchain Track | KU HackFest 2025
 
-Our team **Tuple Lattice** developed a blockchain-based royalty distribution platform focused on improving **transparency, ownership verification, and secure royalty distribution**.
+Our team **Tuple Lattice** developed a blockchain-based royalty distribution platform designed to improve **transparency, ownership verification, and secure royalty distribution**.
 
-The project was developed under a tight hackathon deadline, providing hands-on experience in **Blockchain Development, Full-Stack Development, Problem Solving, and Team Collaboration**.
+The project was built under a tight hackathon deadline and strengthened my experience in **Blockchain Development, Full-Stack Development, Problem Solving, Innovation, and Teamwork**.
 
-**Key Highlights:**
+### ✨ Key Features
 
 * 🔗 Blockchain-based royalty distribution
 * 🔐 Secure and transparent transactions
 * ✅ Ownership verification
 * 💰 Transparent royalty management
-* 🌐 Full-stack application development
+* 🌐 Full-stack web application
 * 🤝 Collaborative team development
-* 🏆 Winner of the **Blockchain Track**
+* ⚡ Built under hackathon time constraints
 
-**Event:** KU HackFest 2025
-**Date:** December 24–26, 2025
+### 🏆 Achievement
 
+**Winner of the Blockchain Track — KU HackFest 2025**
 
+📅 **December 24–26, 2025**
 
+👥 **Team: Tuple Lattice**
 
-**Focus Areas:** `Blockchain` `Full-Stack Development`  `Hackathon` `Innovation`
+**Team Members:**
+
+* [Roshan Bist](https://www.linkedin.com/in/roshan-bist-636892284/)
+* [Pratishthit Raj Baral](https://www.linkedin.com/in/pratishthit-raj-baral-6353a4296/)
+* [Utkristha Bhattarai](https://www.linkedin.com/in/utkristha-bhattarai/)
+
+**Focus:** `Blockchain` `Web3` `Full-Stack` `Royalty Distribution` `Hackathon`
 
 ---
 
-### 🎫 Parva — Event Management System
+## 🎫 Parva — Event Management System
 
-A full-stack event management platform designed to simplify event planning and organization.
+A full-stack **Event Management System** designed to simplify event planning and organization.
 
-**Tech Stack:** `React.js` • `Django` • `MySQL`
+### 🛠️ Tech Stack
 
-**Key Features:**
+`React.js` `Django` `MySQL`
+
+### ✨ Features
 
 * 📅 Event information management
 * 🏢 Venue management
 * 🔐 Admin functionality
-* 📋 Organized event planning workflow
+* 📋 Event organization workflow
+* 🖥️ Full-stack web application
 
 ---
 
-### 🌍 Local Globe
+## 🌍 Local Globe — Local Business Discovery Platform
 
-A platform designed to connect tourists with local businesses by allowing shops to showcase their information and locations.
+**Local Globe** is a platform designed to connect tourists with local businesses by allowing shops to showcase their information and locations.
 
-**Tech Stack:** `React.js` • `ASP.NET` • `MS SQL`
+### 🛠️ Tech Stack
 
-🏆 **1st Hackathon — December 2024**
+`React.js` `ASP.NET` `MS SQL`
 
-**Key Features:**
+### 🏆 Achievement
+
+**Participated in the 1st Hackathon — December 6–7, 2024**
+
+### ✨ Features
 
 * 🏪 Local business listings
 * 📍 Business location information
 * 🧭 Tourist-friendly discovery
+* 🌐 Business information management
 * 📱 Responsive interface
+
+### 👥 Team
+
+* Pratishthit Raj Baral
+* Roshan Bist
+* Prasanna Raj Neupane
 
 ---
 
-### 📦 Byabasthapan — Inventory Management System
+## 📦 Byabasthapan — Inventory Management System
 
-A full-stack inventory management system designed for small and medium-sized businesses.
+A full-stack inventory management system designed to help businesses manage products, stock, sales, purchases, and analytics.
 
-**Tech Stack:** `React` • `Vite` • `ASP.NET` • `MS SQL`
+### 🛠️ Tech Stack
 
-**Key Features:**
+`React` `Vite` `ASP.NET` `MS SQL`
 
-* 📦 Product and stock management
-* 💰 Sales and purchase tracking
+### ✨ Features
+
+* 📦 Product and inventory management
 * 📊 Analytics dashboard
+* 💰 Sales and purchase tracking
 * 🔐 Authentication and role management
 * 🔎 Search and filtering
-* 📱 Responsive interface
-
-
----
-
-## 🧠 Currently Exploring
-
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Computer Vision
-Full-Stack Development
-Data Structures & Algorithms
-System Design
-```
+* 📱 Responsive user interface
 
 ---
 
-📈 GitHub Stats
+# 🧠 Currently Exploring
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RkChhetri358&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RkChhetri358&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p align="center">
+
+`Artificial Intelligence` • `Machine Learning` • `Deep Learning` • `Computer Vision`
+
+`Blockchain` • `Web3` • `Full-Stack Development` • `Data Structures & Algorithms`
+
+</p>
+
 ---
 
-## 🔥 Contribution Streak
+# 🏆 Achievements & Experience
+
+### 🥇 KU HackFest 2025
+
+**Winner — Blockchain Track**
+
+Built a blockchain-based royalty distribution platform with **Tuple Lattice**.
+
+### 🏆 Hackathon Experience
+
+Participated in multiple hackathons focused on developing practical technology solutions under time constraints.
+
+### 💻 Full-Stack Development
+
+Built applications using modern frontend and backend technologies including **React.js, Django, ASP.NET, MySQL, and MS SQL**.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RkChhetri358&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RkChhetri358&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RkChhetri358&theme=tokyonight&hide_border=true" />
@@ -177,25 +233,60 @@ System Design
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rachitkhadka/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RkChhetri358">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RkChhetri358&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 💡 My Goal
+# 🎯 What I'm Working Toward
 
-> **Learn continuously. Build meaningful solutions. Become a better engineer every day.**
+```text
+Building real-world software
+        ↓
+Improving full-stack development skills
+        ↓
+Exploring AI / ML / Computer Vision
+        ↓
+Learning Blockchain & Web3
+        ↓
+Solving challenging engineering problems
+        ↓
+Becoming a better software engineer
+```
+
+---
+
+# 🌱 My Development Philosophy
+
+> **Learn continuously. Build consistently. Solve meaningful problems.**
+
+I believe the best way to learn technology is by **building real projects, collaborating with others, participating in hackathons, and solving problems that have practical impact.**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/RkChhetri358">
+<img src="https://img.shields.io/badge/GitHub-RkChhetri358-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rachitkhadka/">
+<img src="https://img.shields.io/badge/LinkedIn-Rachit%20Khadka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+
+### 💻 Code • Build • Learn • Repeat 🚀
+
+⭐ **Thanks for visiting my profile!**
+
 </p>
